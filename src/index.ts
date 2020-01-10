@@ -1,3 +1,5 @@
+import eqdictParser from '@patarapolw/eqdict'
+
 export function getIndent (s: string) {
   const indents: number[] = []
   for (const r of s.split('\n')) {
@@ -35,8 +37,6 @@ export function stripIndent (s: string) {
 export function createIndentedFilter (tag: string, fn: (s: string, attrs: {
   [k: string]: string
 }) => string) {
-  const eqdictParser = require('eqdict').default
-
   return (text: string) => {
     const replacement: {s: string; attrs: any; start: number; end: number}[] = []
     const tagRegex = new RegExp(`${escapeRegExp(`^^${tag}`)}(?:[. \\n()]|$)`)
