@@ -1,6 +1,6 @@
 {
   "name": "indent-utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Indented filter utilities, including Showdown extensions / HyperPug filters' maker",
   "keywords": [
     "showdownjs",
