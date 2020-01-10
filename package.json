@@ -1,6 +1,6 @@
 {
   "name": "indent-utils",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Indented filter utilities, including Showdown extensions / HyperPug filters' maker",
   "keywords": [
     "showdownjs",
@@ -9,8 +9,7 @@
     "pug",
     "indent"
   ],
-  "homepage": "https://github.com/patarapolw/git-publisher/tree/master/packages/indent-utils",
-  "repository": "github:patarapolw/git-publisher",
+  "repository": "github:patarapolw/indent-utils",
   "license": "MIT",
   "author": {
     "name": "Pacharapol Withayasakpunt",
@@ -19,7 +18,8 @@
   },
   "files": [
     "dist",
-    "umd"
+    "umd",
+    "src"
   ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

@@ -755,10 +755,10 @@
     "@parcel/utils" "^1.11.0"
     physical-cpu-count "^2.0.0"
 
-"@patarapolw/eqdict@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@patarapolw/eqdict/-/eqdict-1.0.4.tgz#aa88b4cdf30dc109a2393d68667f004a93c35a4c"
-  integrity sha512-1nuQ8VFAEe47+aTYNi6gUwQui0iXxjDNKxVTjMEmTiU7G7clgKk0zitNs7pvDklsrxDedsgL2SdJL1Mbo5JsTw==
+"@patarapolw/eqdict@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@patarapolw/eqdict/-/eqdict-1.0.5.tgz#bd6190d6883232e984aa1351c9d3516a7ecff036"
+  integrity sha512-J2NaFSz6UOCt1CVh0LDG4nBoL+jkZe5hcO/SwxU7tvJgkcxV/LjbEUM2NtmkftMy4j0w2GL8YI+AuIg/DAJSfw==
 
 "@types/eslint-visitor-keys@^1.0.0":
   version "1.0.0"
