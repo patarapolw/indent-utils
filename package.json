@@ -1,6 +1,6 @@
 {
   "name": "indent-utils",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Indented filter utilities, including Showdown extensions / HyperPug filters' maker",
   "keywords": [
     "showdownjs",
@@ -32,7 +32,7 @@
     "test": "ts-mocha --paths -p tests/tsconfig.json tests/**/*.spec.ts"
   },
   "dependencies": {
-    "@patarapolw/eqdict": "^1.0.4"
+    "@patarapolw/eqdict": "^1.0.5"
   },
   "devDependencies": {
     "@types/hyperscript": "^0.0.3",
